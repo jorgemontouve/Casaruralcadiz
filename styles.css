@@ -197,7 +197,8 @@ blockquote {
   align-items: center;
 }
 
-.section-heading p:last-child {
+.section-heading p:last-child,
+.section-text {
   color: var(--muted);
 }
 
